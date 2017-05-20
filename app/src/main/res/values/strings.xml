@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BerlinReview</string>
+    <string name ="display_name">Review</string>
+    <string name ="url_part_one">https://www.getyourguide.com/berlin-l17/tempelhof-2-hour-airport-history-tour-berlin-airlift-more-t23776/reviews.json?count=</string>
+    <string name="url_part_two">&amp;page=0&amp;rating=0&amp;sortBy=date_of_review&amp;direction=DESC</string>
+    <string name="action_favorite">Add</string>
+    <string name="add_review">Add your review</string>
+    <string name ="hint_name">Name</string>
+
+
+    <string name="hint_rating"></string>
+    <string name="hint_title">Title</string>
+    <string name="hint_message">Enter your message here</string>
+    <string name="hint_author">Name</string>
+    <string name= "hint_foreignLanguage">Language</string>
+    <string name="hint_date"></string>
+    <string name= "hint_date_unformatted"></string>
+    <string name= "hint_languageCode">Language</string>
+    <string name="hint_traveler_type">Traveller type</string>
+    <string name="hint_reviewerName">Full Name</string>,
+    <string name="hint_reviewerCountry">Country</string>
+
+    <string name="btn_submit">Submit</string>
+    <string name="lodaing_more">Loading more reviews...</string>
+
+
+</resources>
